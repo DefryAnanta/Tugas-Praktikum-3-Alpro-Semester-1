@@ -33,7 +33,7 @@ int main(){
     int a1, a2, a3;
 
     // Meminta pengguna untuk memasukkan tiga angka
-    cout << "       Masukkan tiga angka: ";
+    cout << "     Masukkan tiga angka: ";
     cin >> a1 >> a2 >> a3;
     // Menentukan angka terbesar
     int terbesar = a1;
