@@ -40,7 +40,7 @@ int main(){
 
     if (a2 > terbesar) {
         terbesar = a2;
-    }if (a3 > terbesar) {
+    }else if (a3 > terbesar) {
         terbesar = a3;
     }
 
