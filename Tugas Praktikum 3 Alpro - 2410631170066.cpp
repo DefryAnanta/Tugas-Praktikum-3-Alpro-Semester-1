@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"Tugas Praktikum 2 Alpro"<<endl<<endl;
+    cout<<"Tugas Praktikum 3 Alpro"<<endl<<endl;
     cout<<"Nama       : Defry Ananta Perangin Angin"<<endl;
     cout<<"NPM        : 2410631170066"<<endl;
     cout<<"Kelas/Prodi: 1B/Informatika"<<endl<<endl;
